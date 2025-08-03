@@ -104,25 +104,21 @@ App will run on http://localhost:5173.
 
 
 🧪 API Endpoints
-- 🔹 Problems
-`GET /api/problem – List all problems`
+- `GET /api/problem – List all problems`
 
-`POST /api/problem – Post a new problem`
+- `POST /api/problem – Post a new problem`
 
-`GET /api/problem/:id – Get specific problem`
+- `GET /api/problem/:id – Get specific problem`
 
--🔹 Solutions
-`GET /api/solutions/:problemId – View solutions`
+- `GET /api/solutions/:problemId – View solutions`
 
-`POST /api/solutions/:problemId – Submit solution`
+- `POST /api/solutions/:problemId – Submit solution`
 
--🔹 Comments
-`POST /api/comments/:solutionId – Add comment`
+- `POST /api/comments/:solutionId – Add comment`
 
-`GET /api/comments/:solutionId – Get all comments`
+- `GET /api/comments/:solutionId – Get all comments`
 
--🔹 Upvotes
-`POST /api/solutions/:solutionId/upvote – Upvote a solution`
+- `POST /api/solutions/:solutionId/upvote – Upvote a solution`
 
 
 ## 🤝 Contributing
