@@ -23,7 +23,7 @@ CrowdSolve is a full-stack MERN application where users can post real-world prob
 ---
 
 ## 📁 Folder Structure
-
+```
 CrowdSolve/
 ├── backend/ # Node.js + Express backend
 │ ├── controllers/
@@ -44,6 +44,7 @@ CrowdSolve/
 │ └── index.html
 ├── README.md
 
+```
 ---
 
 ## 🚀 Features
