@@ -15,7 +15,7 @@ const app = express();
 connectDB();
 
 app.use(cors({
-  origin: "https://crowdsolve-frontend.vercel.app",
+  origin: "http://localhost:5173",
   credentials: true
 }));
 app.use(express.json());
@@ -38,4 +38,5 @@ app.get("/", (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is running at PORT ${PORT}`);
 })
+
 
