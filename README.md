@@ -2,6 +2,7 @@
 
 CrowdSolve is a full-stack MERN application where users can post real-world problems and contribute solutions. It supports image uploads, commenting, upvoting, and a clean UI built with React + Tailwind CSS. The backend is built with Express.js and MongoDB, and images are hosted on Cloudinary.
 
+
 ---
 
 ## 🛠️ Tech Stack
