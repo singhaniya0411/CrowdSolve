@@ -4,8 +4,6 @@ CrowdSolve is a full-stack MERN application where users can post real-world prob
 
 
 
-
-
 ## 🛠️ Tech Stack
 
 ### Frontend:
